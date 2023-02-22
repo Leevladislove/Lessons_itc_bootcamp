@@ -1,0 +1,8 @@
+login: Vlad
+password: ssaa
+
+login: Dude
+password: as
+
+login: Kate
+password: dd
